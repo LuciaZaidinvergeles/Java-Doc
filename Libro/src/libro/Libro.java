@@ -17,7 +17,7 @@ public class Libro {
     private int ejemplares; //Número de ejemplares.
     private int prestados; //Número prestado
 
-    //constructor por defecto
+    //constructor por defecto 
     public Libro() {
     }
 
