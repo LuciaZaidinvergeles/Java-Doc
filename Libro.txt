@@ -1,0 +1,62 @@
+ /**
+    *constructor con parámetros
+    *@param titulo Es el nombre del libro que establecemos mediante una cadena.
+    * @param autor Es el nombre del autor del libro que establecemos mediante uan cadena.
+    * @param ejemplares El numero de ejemplares que tenemos para prestar.
+    * @param prestados El numero de ejemplares que hemos prestado.
+    */
+
+   /**
+     * Obtener el autor del libro.
+     *  @return El nombre del autor del libro
+     */
+
+  /**
+     * Establecer el nombre del aoutor
+     * @param autor Es el escritor del libro
+     */
+
+ /**
+     * Obtener el nuemro de libros que hay paar prestar
+     * @return Número de libros
+     */
+
+ /**
+     * Establece el número de libros que hay parar prestar 
+     * @param ejemplares Es el número de libros que hay parar prestar
+     */
+
+  /**
+     * Obtener el nuemro de libros prestados
+     * @return Número de prestamos
+     */
+
+ /**
+     * Establece el número de libros que se han prestado
+     * @param prestados Es el número de libros que hay prestados
+     */
+
+/**
+     * Obtener el nombre del libro
+     * @return Nombre del libro
+     */
+
+/**
+     * Establece el nombre del libro
+     * @param titulo Es el nombre del libro
+     */
+
+    /**
+     * Método para realizar el prestamo de un libro 
+     * @return True si se ha devuelto o false si no se ha devuelto
+     */
+
+/**
+     * método para realizar la devolución de un libro 
+     * @return True si se ha devuelto o false si no se ha devuelto
+     */
+
+  /**
+     * método toString sobrescrito para mostrar los datos de la clase Libro
+     * @return El titulo-Autor-Ejemplares-Prestados; del libro
+     */
